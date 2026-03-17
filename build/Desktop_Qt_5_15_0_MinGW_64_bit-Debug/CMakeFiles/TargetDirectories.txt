@@ -1,0 +1,9 @@
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/Virtual_Port.dir
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/Virtual_Port_autogen_timestamp_deps.dir
+D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug/CMakeFiles/Virtual_Port_autogen.dir

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f078553afde23706e4e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Virtual_Port",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Virtual_Port::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Virtual_Port-Debug-7f1dac2bbeba402c29e1.json",
+					"name" : "Virtual_Port",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Virtual_Port_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Virtual_Port_autogen-Debug-db578910ea1b48bdfb26.json",
+					"name" : "Virtual_Port_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Virtual_Port_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Virtual_Port_autogen_timestamp_deps-Debug-accfdfcc4cb689b12a56.json",
+					"name" : "Virtual_Port_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QT/Virtual_Port/build/Desktop_Qt_5_15_0_MinGW_64_bit-Debug",
+		"source" : "D:/QT/Virtual_Port"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
