@@ -254,7 +254,6 @@ void MainWindow::on_sendCustomButton_clicked()
     // 构建数据包
     QByteArray packet = headerData + customData;
 
-    
     // 添加帧尾 FF FF
     packet.append(static_cast<char>(0xFF));
     packet.append(static_cast<char>(0xFF));
